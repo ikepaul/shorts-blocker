@@ -98,7 +98,7 @@ function fuckshorts() {
   if (window.location.href.includes("/shorts/")) {
     getout();
   }
-  setTimeout(fuckshorts, 5000)
+  setTimeout(fuckshorts, 1000)
 }
 
 fuckshorts();
