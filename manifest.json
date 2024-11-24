@@ -18,12 +18,6 @@
         "https://developer.chrome.com/docs/webstore/*",
         "https://www.youtube.com/*"
       ]
-    },
-    {
-      "js": ["scripts/ahhh.js"],
-      "matches": [
-        "https://www.youtube.com/shorts/*"
-      ]
     }
   ]
 }
